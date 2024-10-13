@@ -1,1 +1,1 @@
-{"img":"https://cdn.futura-sciences.com/cdn-cgi/image/width=1024,quality=60,format=auto/sources/images/dossier/773/01-intro-773.jpg","link":"https://google.com"}
+{"img":"","link":""}
